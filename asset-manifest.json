@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/financelending/static/css/main.4568ce32.css",
+    "main.js": "/financelending/static/js/main.bc585151.js",
+    "static/media/laptop.jpg": "/financelending/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/financelending/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/financelending/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/financelending/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/financelending/index.html",
+    "main.4568ce32.css.map": "/financelending/static/css/main.4568ce32.css.map",
+    "main.bc585151.js.map": "/financelending/static/js/main.bc585151.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4568ce32.css",
+    "static/js/main.bc585151.js"
+  ]
+}
